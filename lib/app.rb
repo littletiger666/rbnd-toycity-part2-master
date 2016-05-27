@@ -23,13 +23,13 @@ end
 
 def ascii_art (str)
 	a = Artii::Base.new
-	puts a.asciify(str)
+	$report_file.puts a.asciify(str)
 end
 
 # Print "Sales Report" in ascii art
 # Print today's date
 def print_date
-	puts "Today's Date: #{DateTime.now.strftime('%m/%d/%Y')}"
+	$report_file.puts "Today's Date: #{DateTime.now.strftime('%m/%d/%Y')}"
 end
 
 def print_data
