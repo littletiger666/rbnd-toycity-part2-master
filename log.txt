@@ -1,0 +1,29 @@
+commit fbfc96166ed678cf61ffd4e607dff2d9e652c7d3
+Author: Xiaohu Li <li.xiaohu6@gmail.com>
+Date:   Thu May 26 22:06:35 2016 -0700
+
+    final version
+
+commit 5ce468cab22e50e1f80546ee9490527b7539f962
+Author: Xiaohu Li <li.xiaohu6@gmail.com>
+Date:   Thu May 26 21:49:59 2016 -0700
+
+    nearly done
+
+commit 716f690b29a9d1f3835472ce94b6373b605cf88d
+Author: Xiaohu Li <li.xiaohu6@gmail.com>
+Date:   Thu May 26 20:55:37 2016 -0700
+
+    add puts to report.txt
+
+commit 429483dd9fd0b8c41654cea40be69574ffd82ba4
+Author: Xiaohu Li <li.xiaohu6@gmail.com>
+Date:   Thu May 26 20:33:29 2016 -0700
+
+    basic structure
+
+commit 277a3f80da8d05bc4058f5086896d95153d88c4a
+Author: Xiaohu Li <li.xiaohu6@gmail.com>
+Date:   Thu May 26 15:30:34 2016 -0700
+
+    Initial commit
