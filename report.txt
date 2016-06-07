@@ -6,7 +6,7 @@
  |_____/ \__,_|_|\___|___/ |_|  \_\___| .__/ \___/|_|   \__|
                                       | |                   
                                       |_|                   
-Today's Date: 05/26/2016
+Today's Date: 06/06/2016
   _____               _            _       
  |  __ \             | |          | |      
  | |__) | __ ___   __| |_   _  ___| |_ ___ 
@@ -15,30 +15,24 @@ Today's Date: 05/26/2016
  |_|   |_|  \___/ \__,_|\__,_|\___|\__|___/
                                            
                                            
-toy's name: LEGO Iron Man vs. Ultron
-
-toy's full price: $22.99
-toy's total number of purchases: 2
-toy's total amount of sales: $36.98
-toy's average price: $18.49
-toy's average discount: 0.2
-
-toy's name: Nano Block Empire State Building
-
-toy's full price: $49.99
-toy's total number of purchases: 2
-toy's total amount of sales: $68.98
-toy's average price: $34.49
-toy's average discount: 0.31
-
-toy's name: LEGO Firehouse Headquarters
-
-toy's full price: $199.99
-toy's total number of purchases: 2
-toy's total amount of sales: $379.98
-toy's average price: $189.99
-toy's average discount: 0.05
-
+LEGO Iron Man vs. Ultron
+22.99
+2
+36.98
+18.49
+0.2
+Nano Block Empire State Building
+49.99
+2
+68.98
+34.49
+0.31
+LEGO Firehouse Headquarters
+199.99
+2
+379.98
+189.99
+0.05
   ____                      _     
  |  _ \                    | |    
  | |_) |_ __ __ _ _ __   __| |___ 
@@ -47,15 +41,11 @@ toy's average discount: 0.05
  |____/|_|  \__,_|_| |_|\__,_|___/
                                   
                                   
-Brand: LEGO
-
-Brand's toys stocked: 55
-Brand's average price: $111.49
-Brand's total revenue: $416.96
-
-Brand: Nano Blocks
-
-Brand's toys stocked: 12
-Brand's average price: $49.99
-Brand's total revenue: $68.98
-
+LEGO
+55
+111.49
+416.96
+Nano Blocks
+12
+49.99
+68.98
